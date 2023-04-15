@@ -20,7 +20,7 @@
     margin-bottom: 30px;
   }
   .container-fluid0 {
-    background-image: url("../img/7.jpg");
+    background-image: url("../img/smp10.gif");
     padding: 60px 50px;
 
     background-attachment: fixed;
@@ -29,7 +29,7 @@
     background-size: cover;
   }
   .container-fluid1 {
-    background-image: url("../img/5.jpg");
+    background-image: url("../img/smp3.png");
     padding: 100px 50px;
 
     background-attachment: fixed;
@@ -38,7 +38,7 @@
     background-size: cover;
   }
   .container-fluid2 {
-    background-image: url("../img/8.jpg");
+    background-image: url("../img/smp4.jpg");
     padding: 60px 50px;
 
     background-attachment: fixed;
@@ -47,7 +47,7 @@
     background-size: cover;
   }
   .container-fluid3 {
-    background-image: url("../img/3.jpg");
+    background-image: url("../img/smp5.png");
     padding: 60px 50px;
 
     background-attachment: fixed;
@@ -56,7 +56,7 @@
     background-size: cover;
   }
   .container-fluid4 {
-    background-image: url("../img/2.jpg");
+    background-image: url("../img/smp2.jpg");
     padding: 60px 50px;
 
     background-attachment: fixed;
@@ -147,7 +147,6 @@
     font-family: Montserrat, sans-serif;
   }
   .navbar li a, .navbar .navbar-brand {
-    float: left;
     font-weight:bolder;
     color: #fa0606 !important;
   }
