@@ -149,6 +149,12 @@
   .navbar li a, .navbar .navbar-brand {
     font-weight:bolder;
     color: #fa0606 !important;
+    display: flex;
+    align-items: center;
+  }
+  .navbar-brand img {
+    margin-right: 10px;
+    height: 200%;
   }
   .navbar-nav li a:hover, .navbar-nav li.active a {
     color: rgba(2, 2, 42, 0.96) !important;
